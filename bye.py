@@ -1,2 +1,2 @@
-def bye():
-    print("bye")
+def hi():
+    print("hiiiii")
